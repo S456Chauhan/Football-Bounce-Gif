@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L6j8nRNPIeY1CKE067lgssE/Ga/Goo8lczYa2O/5xD2VOaoR1fPTBwd1/NBvy73c6Xpfeq+01X+Xo2/MmJNIjw==",
+  "success": true,
+  "projectFilePath": "D:\\footbalgifprogram1\\FootGif\\FootGif\\FootGif.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\magick.net-q16-anycpu\\13.2.0\\magick.net-q16-anycpu.13.2.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\magick.net.core\\13.2.0\\magick.net.core.13.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
